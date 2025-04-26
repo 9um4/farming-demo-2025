@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace ItemSystem.ItemData
 {
-    public abstract class ItemData: MonoBehaviour
+    public abstract class ItemData : MonoBehaviour
     {
         #region Common Data
         [Header("Common Data")]
