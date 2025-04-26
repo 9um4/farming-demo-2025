@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ItemSystems.ItemData
+namespace ItemSystem.ItemData
 {
     public abstract class ItemData: MonoBehaviour
     {
