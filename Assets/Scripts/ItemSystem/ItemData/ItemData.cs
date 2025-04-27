@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace ItemSystem.ItemData
+namespace ItemSystem
 {
-    public abstract class ItemData: MonoBehaviour
+    public abstract class AbstractItemData: MonoBehaviour
     {
         #region Common Data
         [Header("Common Data")]
